@@ -1,0 +1,17 @@
+{
+  "name": "volunteer-network-server-site",
+  "version": "1.0.0",
+  "description": "volunteer network server site full production leval structure code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "multer",
+    "mongoose",
+    "mongodb"
+  ],
+  "author": "mostak shahariyar",
+  "license": "ISC"
+}
